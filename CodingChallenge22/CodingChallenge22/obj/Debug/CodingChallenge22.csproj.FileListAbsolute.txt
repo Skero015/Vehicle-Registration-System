@@ -1,0 +1,6 @@
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\bin\Debug\CodingChallenge22.exe.config
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\bin\Debug\CodingChallenge22.exe
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\bin\Debug\CodingChallenge22.pdb
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\obj\Debug\CodingChallenge22.csprojResolveAssemblyReference.cache
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\obj\Debug\CodingChallenge22.exe
+C:\Users\seima\Documents\Visual Studio 2015\Projects\Exercises\CodingChallenge22\CodingChallenge22\obj\Debug\CodingChallenge22.pdb
